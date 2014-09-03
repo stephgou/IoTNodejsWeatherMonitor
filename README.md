@@ -1,4 +1,4 @@
-IOTNodejsWeatherMonitor
+IoTNodejsWeatherMonitor
 =======================
 
-Weather Monitoring IOT Solution implemented through Node.js + SocketIo + Azure
+Weather Monitoring IoT Solution implemented through Node.js + SocketIo + Azure
