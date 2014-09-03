@@ -1,0 +1,1 @@
+C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.WindowsPhone\IOTWeatherStation.WindowsPhone.csproj;neutral

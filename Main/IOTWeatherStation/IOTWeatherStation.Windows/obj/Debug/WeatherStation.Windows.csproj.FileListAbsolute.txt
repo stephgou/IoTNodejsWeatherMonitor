@@ -1,0 +1,140 @@
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\App.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\MainPage.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.xr.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.exe
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.pdb
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\resources.pri
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\AppxManifest.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.build.appxrecipe
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\App.g.i.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\App.g.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.g.i.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.g.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\App.xaml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.xaml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\App.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.exe
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.pdb
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\priconfig.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\layout.resfiles
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\resources.resfiles
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\pri.resfiles
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\qualifiers.txt
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.Windows\obj\Debug\ProjectArchitectures.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\App.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\MainPage.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.xr.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.exe
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.pdb
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\resources.pri
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\AppxManifest.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.build.appxrecipe
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Newtonsoft.Json.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\SocketIOClient.WinRT.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Extensions.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Primitives.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Newtonsoft.Json.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\SocketIOClient.WinRT.pdb
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Extensions.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Primitives.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.g.i.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.g.i.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.xaml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.xaml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.exe
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.pdb
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.csproj.GenerateResource.Cache
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\priconfig.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\priconfig.xml.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\layout.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\layout.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\resources.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\resources.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\pri.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\pri.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\qualifiers.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\ProjectArchitectures.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.csprojResolveAssemblyReference.cache
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml.intermediate
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\App.xbf
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\MainPage.xbf
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.xr.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.exe
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.pdb
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\resources.pri
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\AppxManifest.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\WeatherStation.Windows.build.appxrecipe
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\SocketIOClient.WinRT.dll
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Extensions.dll
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Primitives.dll
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\SocketIOClient.WinRT.pdb
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Extensions.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Debug\System.Net.Http.Primitives.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.csprojResolveAssemblyReference.cache
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.g.i.cs
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.g.cs
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.g.i.cs
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.g.cs
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.xaml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.xaml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\App.xbf
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MainPage.xbf
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.exe
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.pdb
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\WeatherStation.Windows.csproj.GenerateResource.Cache
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\priconfig.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\priconfig.xml.intermediate
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\layout.resfiles
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\layout.resfiles.intermediate
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\resources.resfiles
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\resources.resfiles.intermediate
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\pri.resfiles
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\pri.resfiles.intermediate
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\qualifiers.txt
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+C:\DEV\_GIT_REPOSITORY\IOTMonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Debug\ProjectArchitectures.txt

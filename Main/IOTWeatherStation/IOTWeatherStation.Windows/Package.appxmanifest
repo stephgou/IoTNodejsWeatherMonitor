@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="64085JulienCorioland.AzureCampWeatherStation" Publisher="CN=56547F93-1DDD-442A-A3C1-3B4C5242E080" Version="1.1.0.0" />
+  <Properties>
+    <DisplayName>AzureCampWeatherStation</DisplayName>
+    <PublisherDisplayName>Julien Corioland</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="WeatherStation.Windows.App">
+      <m2:VisualElements DisplayName="AzureCampWeatherStation" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="WeatherStation.Windows" ForegroundText="light" BackgroundColor="#464646">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <m2:DeviceCapability Name="bluetooth.genericAttributeProfile">
+      <m2:Device Id="any">
+        <!-- Temperature -->
+        <m2:Function Type="serviceId:F000AA00-0451-4000-B000-000000000000" />
+        <!-- Humidity -->
+        <m2:Function Type="serviceId:F000AA20-0451-4000-B000-000000000000" />
+        <!-- Battery -->
+        <m2:Function Type="name:battery" />
+      </m2:Device>
+    </m2:DeviceCapability>
+  </Capabilities>
+</Package>

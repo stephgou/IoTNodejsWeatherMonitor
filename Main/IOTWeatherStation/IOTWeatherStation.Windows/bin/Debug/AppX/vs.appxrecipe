@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>X1CARBONW8</Machine>
+    <WindowsUser>stephgou</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>64085JulienCorioland.AzureCampWeatherStation</PackageIdentityName>
+    <IntermediateOutputPath>C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>914F303EAEB9C5E3C578451CE54D98136AFB3F4BB154B182AE02BB617C1712D7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>64085JulienCorioland.AzureCampWeatherStation_1.1.0.0_neutral__aa3qyr9xhdwyt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>64085JulienCorioland.AzureCampWeatherStation_aa3qyr9xhdwyt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>64085JulienCorioland.AzureCampWeatherStation</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=56547F93-1DDD-442A-A3C1-3B4C5242E080</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-03T12:29:12.733</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\IOTWeatherStation.Windows.exe">
+      <PackagePath>IOTWeatherStation.Windows.exe</PackagePath>
+      <Modified>2014-09-03T12:29:12.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\packages\Microsoft.AspNet.SignalR.Client.2.1.0\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+      <Modified>2014-08-29T14:13:20.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\packages\WindowsAzure.Messaging.Managed.0.1.7.8\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+      <Modified>2014-08-29T14:13:18.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-08-29T09:19:52.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\SocketIOClient.WinRT.dll">
+      <PackagePath>SocketIOClient.WinRT.dll</PackagePath>
+      <Modified>2014-06-20T06:10:27.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2014-08-29T14:13:19.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2014-08-29T14:13:19.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-20T06:10:27.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-20T06:10:27.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-20T06:10:27.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-20T06:10:27.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-29T16:18:55.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-08-29T16:18:55.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\IOTWeatherStation.Windows.xr.xml">
+      <PackagePath>IOTWeatherStation.Windows.xr.xml</PackagePath>
+      <Modified>2014-08-29T16:09:24.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GIT_REPOSITORY\NodejsIOTMonitor\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-01T19:36:23.106</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

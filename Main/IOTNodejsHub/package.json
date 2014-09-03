@@ -1,0 +1,14 @@
+{
+  "name": "IOTNodejsHub",
+  "version": "0.0.0",
+  "description": "IOTNodejsHub",
+  "main": "server.js",
+  "author": {
+    "name": "stephgou",
+    "email": ""
+  },
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "azure": "~0.9.15"
+  }
+}

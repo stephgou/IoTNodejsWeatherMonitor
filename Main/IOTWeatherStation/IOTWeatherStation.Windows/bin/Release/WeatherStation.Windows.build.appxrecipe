@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IS-JCORIOLAND</Machine>
+    <WindowsUser>Julien</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>64085JulienCorioland.AzureCampWeatherStation</PackageIdentityName>
+    <IntermediateOutputPath>D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Release\WeatherStation.Windows.exe">
+      <PackagePath>WeatherStation.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\packages\Microsoft.AspNet.SignalR.Client.2.1.0\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\packages\WindowsAzure.Messaging.Managed.0.1.7.8\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\Dependencies\SocketIOClient.WinRT.dll">
+      <PackagePath>SocketIOClient.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Release\WeatherStation.Windows.xr.xml">
+      <PackagePath>WeatherStation.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

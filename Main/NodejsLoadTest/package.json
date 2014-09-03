@@ -1,0 +1,14 @@
+{
+  "name": "NodejsLoadTest",
+  "version": "0.0.0",
+  "description": "NodejsLoadTest",
+  "main": "app.js",
+  "author": {
+    "name": "stephgou",
+    "email": ""
+  },
+  "dependencies": {
+    "moment": "~2.8.2",
+    "socket.io-client-matchall": "~0.9.16"
+  }
+}

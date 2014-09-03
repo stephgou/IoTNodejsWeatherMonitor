@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>X1CARBONW8</Machine>
+    <WindowsUser>stephgou</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>64085JulienCorioland.AzureCampWeatherStation</PackageIdentityName>
+    <IntermediateOutputPath>C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\IOTWeatherStation.Windows.exe">
+      <PackagePath>IOTWeatherStation.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\packages\Microsoft.AspNet.SignalR.Client.2.1.0\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\packages\WindowsAzure.Messaging.Managed.0.1.7.8\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\SocketIOClient.WinRT.dll">
+      <PackagePath>SocketIOClient.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\IOTWeatherStation.Windows.xr.xml">
+      <PackagePath>IOTWeatherStation.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

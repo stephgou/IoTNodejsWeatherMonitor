@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Socket.io Live Dashboard";
+}
+
+<h2>@ViewBag.Title</h2>
+<hr />
+
+<p>
+    <button id="btnFakeNotify" class="btn btn-primary">Start fake notify</button>
+</p>
+
+<div id="dashboard">
+    <p>Socket.io hub connection state : <strong data-bind="text: connectionState"></strong></p>
+    <div class="row">
+        <div class="col-md-6">
+            <h3 class="text-center">Humidity (%) live evolution</h3>
+            <hr />
+            <canvas id="humidityCanvas" height="380" width="450"></canvas>
+        </div>
+        <div class="col-md-6">
+            <h3 class="text-center">Temperature (°C) live evolution</h3>
+            <hr />
+            <canvas id="temperatureCanvas" height="380" width="450"></canvas>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+
+
+    @*Pour la version 0.9.16 de socket.io
+    Pour éviter les erreurs de type No 'Access-Control-Allow-Origin' header is present on the requested resource, 
+    il faut récupérer socket.io directement sur le serveur cible, pas sur le cdn socket.io
+    Le référencement de la version du cdn fonctionne bien en 1.0.6*@
+    
+    @*<script src="http://xxx.azurewebsites.net/socket.io/socket.io.js"></script>*@
+    <script src="http://localhost:888/socket.io/socket.io.js"></script>
+
+
+    <script src="~/Scripts/knockout-3.1.0.js"></script>
+    <script src="~/Scripts/moment-with-langs.min.js"></script>
+    <script src="~/Scripts/chart.min.js"></script>
+    <script src="~/Scripts/Dashboard/SocketioDashboardViewModel.js"></script>
+
+    <script>
+        $(function () {
+            var SocketioDashboardViewModel = new IOTMonitor.SocketioDashboardViewModel("#dashboard");
+            SocketioDashboardViewModel.initialize();
+
+            $("#btnFakeNotify").click(function () {
+                $.get("@Url.Action("NotifyFakeData")");
+            });
+        });
+    </script>
+}
+

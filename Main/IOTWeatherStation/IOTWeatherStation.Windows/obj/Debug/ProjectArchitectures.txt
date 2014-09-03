@@ -1,0 +1,1 @@
+C:\DEV\_GITHUB\IoTNodejs\Main\IOTWeatherStation\IOTWeatherStation.Windows\IOTWeatherStation.Windows.csproj;neutral

@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\junk\demo azurecamp\weatherstation\weatherstation\weatherstation.windowsphone\obj\release\intermediatexaml\weatherstation.windowsphone.exe" HashGuid="2c0002f5-1b5a-c7aa-8c7e-926744cd824d" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\windowsazure.messaging.managed.0.1.7.8\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\newtonsoft.json.6.0.3\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="c79997c3-e7ec-c6d9-80a0-b6fbe9a32ff1" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

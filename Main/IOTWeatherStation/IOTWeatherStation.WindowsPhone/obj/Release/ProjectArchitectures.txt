@@ -1,0 +1,1 @@
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\WeatherStation.WindowsPhone.csproj;neutral

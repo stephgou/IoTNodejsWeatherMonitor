@@ -1,0 +1,14 @@
+{
+  "name": "NodejsNotificationHubTest",
+  "version": "0.0.0",
+  "description": "NodejsNotificationHubTest",
+  "main": "app.js",
+  "author": {
+    "name": "stephgou",
+    "email": ""
+  },
+  "dependencies": {
+    "azure": "~0.9.15",
+    "readline": "0.0.3"
+  }
+}

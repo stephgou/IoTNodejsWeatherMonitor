@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="WeatherStation.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WeatherStation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock x:Name="TextStatusSocketio" Text="Etat de la connection Socket.io " Margin="12,5" VerticalAlignment="Center" FontSize="18"/>
+            <Button Content="Start sensor" x:Name="btnStartSensor" Margin="12,5" Click="btnStartSensor_Click" />
+            <Button Content="Stop sensor" x:Name="btnStopSensor" Margin="12,5" Click="btnStopSensor_Click" />
+        </StackPanel>
+        <TextBlock x:Name="lastMeasure" Margin="12,5" VerticalAlignment="Center" Grid.Row="1"></TextBlock>
+        <ListBox Grid.Row="2" x:Name="measuresList">
+            
+        </ListBox>
+    </Grid>
+</Page>

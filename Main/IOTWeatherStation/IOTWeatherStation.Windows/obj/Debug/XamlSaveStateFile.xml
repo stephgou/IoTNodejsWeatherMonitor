@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\iotweatherstation\iotweatherstation.windows\obj\debug\intermediatexaml\iotweatherstation.windows.exe" HashGuid="19782c63-9118-badc-06a2-9f9fc1159033" />
+    <ReferenceAssembly PathName="c:\dev\_github\iotnodejs\main\packages\microsoft.aspnet.signalr.client.2.1.0\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="acd31a10-6b3e-66f1-ce39-eb58f33160d6" />
+    <ReferenceAssembly PathName="c:\dev\_github\iotnodejs\main\packages\windowsazure.messaging.managed.0.1.7.8\lib\netcore45\microsoft.windowsazure.messaging.managed.dll" HashGuid="fc743b07-0e25-3384-ff82-3dec52ff762a" />
+    <ReferenceAssembly PathName="c:\dev\_github\iotnodejs\main\packages\newtonsoft.json.6.0.3\lib\netcore45\newtonsoft.json.dll" HashGuid="7727b668-bdac-5612-b497-e55cbaabf5af" />
+    <ReferenceAssembly PathName="c:\dev\_github\iotnodejs\main\iotweatherstation\iotweatherstation.windows\bin\debug\socketioclient.winrt.dll" HashGuid="080dc4b4-8448-237b-2841-a902f9051640" />
+    <ReferenceAssembly PathName="c:\dev\_github\iotnodejs\main\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\dev\_github\iotnodejs\main\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

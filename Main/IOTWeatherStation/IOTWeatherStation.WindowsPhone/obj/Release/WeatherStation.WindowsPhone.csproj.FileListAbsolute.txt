@@ -1,0 +1,76 @@
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\App.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\MainPage.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.xr.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.exe
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.pdb
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\resources.pri
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\AppxManifest.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.build.appxrecipe
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.g.i.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.g.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.g.i.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.g.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.xaml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.xaml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.xbf
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\WeatherStation.WindowsPhone.exe
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\WeatherStation.WindowsPhone.pdb
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\priconfig.xml
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\priconfig.xml.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\layout.resfiles
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\layout.resfiles.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\resources.resfiles
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\resources.resfiles.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\pri.resfiles
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\pri.resfiles.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\qualifiers.txt
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Junk\Demo AzureCamp\WeatherStation\WeatherStation\WeatherStation.WindowsPhone\obj\Release\ProjectArchitectures.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\App.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\MainPage.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\NotificationPage.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.xr.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.exe
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.pdb
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\resources.pri
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\AppxManifest.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\WeatherStation.WindowsPhone.build.appxrecipe
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Messaging.Managed.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\Newtonsoft.Json.dll
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\Microsoft.WindowsAzure.Messaging.Managed.pri
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\bin\Release\Newtonsoft.Json.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\WeatherStation.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.g.i.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.g.i.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\NotificationPage.g.i.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\NotificationPage.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.xaml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.xaml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\NotificationPage.xaml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\App.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MainPage.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\NotificationPage.xbf
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\WeatherStation.WindowsPhone.exe
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\WeatherStation.WindowsPhone.pdb
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\WeatherStation.WindowsPhone.csproj.GenerateResource.Cache
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\priconfig.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\priconfig.xml.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\layout.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\layout.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\resources.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\resources.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\pri.resfiles
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\pri.resfiles.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\qualifiers.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+D:\git\iotmonitor\Main\IOTMonitor\UniversalApp\WeatherStation\WeatherStation.WindowsPhone\obj\Release\ProjectArchitectures.txt

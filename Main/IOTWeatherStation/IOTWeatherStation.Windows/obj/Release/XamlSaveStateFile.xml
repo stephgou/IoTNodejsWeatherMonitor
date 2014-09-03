@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\git\iotmonitor\main\iotmonitor\universalapp\weatherstation\weatherstation.windows\obj\release\intermediatexaml\weatherstation.windows.exe" HashGuid="aa3d5b50-2cac-efe7-d386-ade70d8bade0" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\microsoft.aspnet.signalr.client.2.1.0\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="acd31a10-6b3e-66f1-ce39-eb58f33160d6" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\windowsazure.messaging.managed.0.1.7.8\lib\netcore45\microsoft.windowsazure.messaging.managed.dll" HashGuid="fc743b07-0e25-3384-ff82-3dec52ff762a" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\newtonsoft.json.6.0.3\lib\netcore45\newtonsoft.json.dll" HashGuid="7727b668-bdac-5612-b497-e55cbaabf5af" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\dev\_git_repository\nodejsiotmonitor\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
