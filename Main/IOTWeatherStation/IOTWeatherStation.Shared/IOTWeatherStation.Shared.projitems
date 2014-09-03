@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>d6eadcdc-2e8d-47a3-b6b5-dba98f14c9c1</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>IOTWeatherStation</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Envelope.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IOTSettings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Notifications\NotificationArgs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SensorTag\DataProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SensorTag\Measure.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SensorTag\MeasureEventArgs.cs" />
+  </ItemGroup>
+</Project>
